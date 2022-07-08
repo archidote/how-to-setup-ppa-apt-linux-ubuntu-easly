@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 08 Jul 2022 18:05:28 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ 286cdfec4a4d9d8f565e30e764d3f189               29 Packages.gz
+ 038465b11acbd3a21975eacbeaa8f994               38 Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 9c468e829c29ccba6f1599952234b4b5249155ab               29 Packages.gz
+ a1e8dc81161ad3c59768414787e9f838185d0cee               38 Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ 7e959a008596fed33a15dd4d60194d89353b4496f98131f739e8220eb3d2c668               29 Packages.gz
+ 5bcf60a8ab6a9101d822205a16e8cace2dca171940b6addc2b5afca55d909f81               38 Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ cfea6d61a8d4f694a434d2be40a2d4d552fe7bd97a15280d1f8407cafee3defb43126936830aabc40ff2929f52a6b4fafb91d67fc468f832987599f2b5b43465               29 Packages.gz
+ 9498ecd3fc0e17b2f0b98522f955ad225f3eb7af67728c81c3947d0b99f68c49a14e06f91e721c3b27fd6f4dc4096f5c20de6a30485aad1b1ced97f9e651fb0e               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJQBAEBCgA6FiEEpxXrt3XQCNq1rJocDD2uWgdIL8MFAmLIcg0cHGFyY2hpZG90
+ZS5jb250YWN0QGdtYWlsLmNvbQAKCRAMPa5aB0gvw2SbD/4iKFEgluKgcxezSYP3
+KBqFQkodJqQctlp4Lepv3UuidWWOnq6vVzOwll1rfeDlf9QbK3N11hWCbI0qAny0
+i59ntTRRgvnw3Kgd7L3oIc9XDBGFPYx9ZigHPV9LwkbUy8nVZWvrC7sbNH7tzuCu
+/ApA1axHzzU+8mPin89DvxzGQSZJpglxTSncRH/RjQWuqfjgnjaDYmMRV5+xXei7
+k7CgbdqbIdX/jQHKpN9s1tRYNQRy52AoUCKHHCErO8LCI3Wc7rJqMxq5fiKk/meR
+bbaG6RxHnsEwaUXRhBdlsSEkaqh2c6sXZoodnDbZ32iXgLO2sGIHa5ugrAYLKpLL
+vfIzNFHZTzsqbZzxXkJFj2oOSHGfVU8Wj4JwIGnynjnF3h9ZaiV/AgD4tsIfs90o
+FfYt4eCTk7SORlc1qEJK1JBt3LKEpZ3Tjz9zo5deJ6tV37Bpg9vMQLK98s7hJbv+
+4xxuwC9pw9dLk1rCVOm72af3PL/ZUjB41QiSe+xz8V53LUyX5Bzon4ug4ZhhPapq
+crKX2W4PMrbwjgqC1BDkL/HvsnXuAOJcyC9a3oGrfPtsxPlq7P+VR1VdfoPrvwh5
+q4YZ69moM/CJZt7/wba8wLjdwbFNjj/eVRJQBKNLpkqTnB+9A0JIdHQAsiv7xi2t
+QTAsgStOGuLIp29hl657gRz3Zg==
+=ZWs1
+-----END PGP SIGNATURE-----
