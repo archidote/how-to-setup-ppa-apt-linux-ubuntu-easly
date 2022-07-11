@@ -1,1 +1,1 @@
-deb https://archidote.github.io/ppa ./
+deb [signed-by=/etc/apt/keyrings/archidote-repo.gpg] https://archidote.github.io/ppa ./
