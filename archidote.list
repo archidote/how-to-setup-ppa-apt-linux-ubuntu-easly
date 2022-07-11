@@ -1,1 +1,1 @@
-deb https://archidote.github.io/ppa ./
+deb "https://archidote.github.io/ppa" archidote-release ./
