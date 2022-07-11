@@ -1,60 +1,46 @@
-Package: filezilla
-Version: 3.58.0-1
+Package: fortune-mod
+Version: 1:1.99.1-7.1
+Architecture: amd64
+Maintainer: Andrea Colangelo <warp10@ubuntu.com>
+Installed-Size: 125
+Depends: libc6 (>= 2.14), librecode0 (>= 3.6)
+Recommends: fortunes-min | fortune-cookie-db
+Suggests: fortunes, x11-utils, bsdmainutils
+Conflicts: fortune
+Replaces: fortune
+Provides: fortune
+Filename: ./fortune-mod_1.99.1-7.1_amd64.deb
+Size: 36856
+MD5sum: 3b4d4815e24b38da5d0eb0cb0c43540d
+SHA1: 68824d5283e331e371026bf689b59cd5c88ea4f8
+SHA256: 79ab09f9710beafd46b4328945a481d679c5d3b1110b6bd5ee8bbea6798064ca
+Section: games
+Priority: optional
+Description: provides fortune cookies on demand
+ The fortune program displays epigrams, known as fortune cookies,
+ selected randomly from a selection of fortune files.
+ .
+ This package provides the fortune program itself and the programs
+ used for generating the data files. The data files are contained in
+ the fortunes-min, fortunes, and fortunes-off packages.
+
+Package: sl
+Version: 5.02-1
 Architecture: amd64
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-Installed-Size: 6270
-Depends: filezilla-common (= 3.58.0-1), libc6 (>= 2.34), libdbus-1-3 (>= 1.9.14), libfilezilla24 (>= 0.36.0), libgcc-s1 (>= 3.3.1), libgtk-3-0 (>= 3.0.0), libnettle8, libpugixml1v5 (>= 1.6), libsqlite3-0 (>= 3.5.9), libstdc++6 (>= 11), libwxbase3.0-0v5 (>= 3.0.5.1+dfsg), libwxgtk3.0-gtk3-0v5 (>= 3.0.5.1+dfsg)
-Recommends: xdg-utils
-Filename: ./filezilla_3.58.0-1_amd64.deb
-Size: 1944564
-MD5sum: 41c93868b8c62e5dbfee9cafb9c52ec1
-SHA1: 577a941bf34687b3d1fcc643caefbbc0692ae5bc
-SHA256: 8618d01ca76af3f647a2b7b2db53b8a5f4e1d01a227b592f5a7fe5e3d9765664
-Section: net
+Installed-Size: 59
+Depends: libc6 (>= 2.2.5), libncurses6 (>= 6), libtinfo6 (>= 6)
+Filename: ./sl_5.02-1_amd64.deb
+Size: 12708
+MD5sum: a9d3404fd92fb694a069f669cf729e02
+SHA1: 9d51f44449d64521ca8c903e4d70bd983798eb39
+SHA256: aeda5a0e5f2ed185078e7819b9a6176eb6b09190d4b58dc46e049d9f01fa0ea9
+Section: games
 Priority: optional
-Homepage: https://filezilla-project.org/
-Description: Full-featured graphical FTP/FTPS/SFTP client
- FileZilla is a full-featured FTP client with an easy-to-use GUI.
- .
- It is written in C++ and uses the wxWidgets library.
- .
- FileZilla includes the following features:
-   * Supports FTP, FTP over SSL/TLS (FTPS) and SSH File Transfer Protocol (SFTP)
-   * IPv6 support
-   * Available in more than 40 languages
-   * Supports resume and transfer of large files >4GB
-   * Easy to use Site Manager and transfer queue
-   * Bookmarks
-   * Drag & drop support
-   * Speed limits
-   * Filename filters
-   * Directory comparison
-   * Network configuration wizard
-   * Remote file editing
-   * Keep-alive
-   * HTTP/1.1, SOCKS5 and FTP Proxy support
-   * Logging to file
-   * Synchronized directory browsing
-   * Remote file search
-   * Tabbed interface to connect to multiple servers
-Original-Maintainer: Phil Wyett <philip.wyett@kathenas.org>
-
-Package: google-chrome-stable
-Version: 103.0.5060.114-1
-Architecture: amd64
-Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 274116
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.16), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.5.12), libdrm2 (>= 2.4.60), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libwayland-client0 (>= 1.0.2), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.4.1), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Recommends: libu2f-udev, libvulkan1
-Provides: www-browser
-Filename: ./google-chrome-stable_current_amd64.deb
-Size: 85835696
-MD5sum: 49528316911b3d3dd03771adee66256e
-SHA1: bf18fc4f2d709dee83d7b9739b233bea9d1ccc8a
-SHA256: 693a00987843bdba97d77a1d9f5a4b5ca9b77bdfd6f37cbffa315680adb5abe3
-Section: web
-Priority: optional
-Description: The web browser from Google
- Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+Homepage: https://github.com/mtoyoda/sl
+Description: Correct you if you type `sl' by mistake
+ Sl is a program that can display animations aimed to correct you
+ if you type 'sl' by mistake.
+ SL stands for Steam Locomotive.
+Original-Maintainer: Markus Frosch <lazyfrosch@debian.org>
 
