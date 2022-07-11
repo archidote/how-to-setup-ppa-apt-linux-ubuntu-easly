@@ -39,3 +39,22 @@ Description: Full-featured graphical FTP/FTPS/SFTP client
    * Tabbed interface to connect to multiple servers
 Original-Maintainer: Phil Wyett <philip.wyett@kathenas.org>
 
+Package: google-chrome-stable
+Version: 103.0.5060.114-1
+Architecture: amd64
+Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
+Installed-Size: 274116
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.16), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.5.12), libdrm2 (>= 2.4.60), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libwayland-client0 (>= 1.0.2), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.4.1), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Recommends: libu2f-udev, libvulkan1
+Provides: www-browser
+Filename: ./google-chrome-stable_current_amd64.deb
+Size: 85835696
+MD5sum: 49528316911b3d3dd03771adee66256e
+SHA1: bf18fc4f2d709dee83d7b9739b233bea9d1ccc8a
+SHA256: 693a00987843bdba97d77a1d9f5a4b5ca9b77bdfd6f37cbffa315680adb5abe3
+Section: web
+Priority: optional
+Description: The web browser from Google
+ Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+
