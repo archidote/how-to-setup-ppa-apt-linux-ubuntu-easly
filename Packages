@@ -1,3 +1,26 @@
+Package: cowsay
+Version: 3.03+dfsg2-8
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 91
+Depends: libtext-charwidth-perl, perl:any
+Suggests: filters, cowsay-off
+Filename: ./cowsay_3.03+dfsg2-8_all.deb
+Size: 18572
+MD5sum: e84358678d6dca3eded8ba115f247f70
+SHA1: cf484c18c86c466740f962d3578b5f1d19db95c1
+SHA256: ab05b5657bff9579e1f420fa3c20c3e1d3d229236209b9cf55238bd55916bd35
+Section: games
+Priority: optional
+Homepage: https://web.archive.org/web/20120527202447/http://www.nog.net/~tony/warez/cowsay.shtml
+Description: configurable talking cow
+ Cowsay (or cowthink) will turn text into happy ASCII cows, with
+ speech (or thought) balloons. If you don't like cows, ASCII art is
+ available to replace it with some other creatures (Tux, the BSD
+ daemon, dragons, and a plethora of animals, from a turkey to
+ an elephant in a snake).
+Original-Maintainer: James McDonald <james@jamesmcdonald.com>
+
 Package: fortune-mod
 Version: 1:1.99.1-7.1
 Architecture: amd64
